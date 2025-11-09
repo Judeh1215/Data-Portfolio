@@ -9,8 +9,7 @@ Portfolio of completed projects I worked on while attending the Business Intelig
 | 2 | [Venture Insights](https://github.com/Judeh1215/Data-Portfolio/tree/main/Venture%20Insights) | This project introduces your role as a Data Analyst at VentureInsight, where you'll provide data-driven insights and recommendations to guide venture capital and startup investment decisions. |
 | 3 | [E-commerce performace optimization](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project tasks you with analyzing raw transaction logs from an e-commerce company to uncover insights into user behavior and website activity, helping optimize the customer journey and boost sales. |
 | 4 | [Superstore Sales Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project involves analyzing the superstore’s operations to identify inefficiencies and develop strategies that boost profitability and prevent bankruptcy. |
-| 5 | [Superstore returns insights](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project analyzes the **high volume of returned orders** at the Superstore to identify root causes and provide actionable recommendations for the CEO to reduce returns and improve customer satisfaction.
- |
+| 5 | [Superstore returns insights](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project analyzes the **high volume of returned orders** at the Superstore to identify root causes and provide actionable recommendations for the CEO to reduce returns and improve customer satisfaction.|
 | 6 | [Shopify App Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE. |
 | 7 | [Zomato Customer Analysis Segmentation](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE.|
 <!--
