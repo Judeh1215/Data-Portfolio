@@ -7,9 +7,7 @@ Portfolio of completed projects I worked on while attending the Business Intelig
 | 0 | [Fresh Beats](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project delivers a concise report summarizing key insights and recommendations for Fresh Beats 🎶, an online platform revolutionizing music streaming and empowering emerging artists. |
 | 1 | [Air Bnb Market Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main/Air%20bnb%20market%20analysis) | This project analyzes Manhattan’s vacation rental market using Airbnb data to identify key trends and recommend the most promising property types for investment. |
 | 2 | [Venture Insights](https://github.com/Judeh1215/Data-Portfolio/tree/main/Venture%20Insights) | This project introduces your role as a Data Analyst at VentureInsight, where you'll provide data-driven insights and recommendations to guide venture capital and startup investment decisions. |
-| 3 | [E-commerce performace optimization](https://github.com/Judeh1215/Data-Portfolio/tree/main) | 
-
-This project tasks you with analyzing raw transaction logs from an e-commerce company to uncover insights into user behavior and website activity, helping optimize the customer journey and boost sales. |
+| 3 | [E-commerce performace optimization](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project tasks you with analyzing raw transaction logs from an e-commerce company to uncover insights into user behavior and website activity, helping optimize the customer journey and boost sales. |
 | 4 | [Superstore Sales Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE. |
 | 5 | [Superstore returns insights](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE. |
 | 6 | [Shopify App Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE. |
