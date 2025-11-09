@@ -10,8 +10,8 @@ Portfolio of completed projects I worked on while attending the Business Intelig
 | 3 | [E-commerce performace optimization](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project tasks you with analyzing raw transaction logs from an e-commerce company to uncover insights into user behavior and website activity, helping optimize the customer journey and boost sales. |
 | 4 | [Superstore Sales Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project involves analyzing the superstore’s operations to identify inefficiencies and develop strategies that boost profitability and prevent bankruptcy. |
 | 5 | [Superstore returns insights](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project analyzes the **high volume of returned orders** at the Superstore to identify root causes and provide actionable recommendations for the CEO to reduce returns and improve customer satisfaction.|
-| 6 | [Shopify App Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE. |
-| 7 | [Zomato Customer Analysis Segmentation](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE.|
+| 6 | [Shopify App Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project explores Shopify app performance using data from publicly available Shopify sites to identify key factors driving app success, presented through a multi-page Power BI report. |
+| 7 | [Zomato Customer Analysis Segmentation](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project analyzes Zomato’s restaurant and customer data to evaluate business performance and uncover insights that support data-driven decision-making.|
 <!--
 | 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
