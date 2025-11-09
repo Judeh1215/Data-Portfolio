@@ -4,7 +4,7 @@ Portfolio of completed projects I worked on while attending the Business Intelig
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [Fresh Beats](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE. |
+| 0 | [Fresh Beats](https://github.com/Judeh1215/Data-Portfolio/tree/main) | This project delivers a concise report summarizing key insights and recommendations for Fresh Beats 🎶, an online platform revolutionizing music streaming and empowering emerging artists. |
 | 1 | [Air Bnb Market Analysis](https://github.com/Judeh1215/Data-Portfolio/tree/main/Air%20bnb%20market%20analysis) | DESCRIPTION HERE. |
 | 2 | [Venture Insights](https://github.com/Judeh1215/Data-Portfolio/tree/main/Venture%20Insights) | DESCRIPTION HERE. |
 | 3 | [E-commerce performace optimization](https://github.com/Judeh1215/Data-Portfolio/tree/main) | DESCRIPTION HERE. |
